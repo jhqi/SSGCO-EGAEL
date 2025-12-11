@@ -36,3 +36,18 @@ see `EntropyRateSuperpixel/generate_sp_adj.py`
 **5. training, clustering, and evaluating**
 <br>
 see `train.py`, hyperparameters should be set in `config/xxx.yml`
+
+## Citation
+If you find the code helpful, please consider citing our paper
+```
+@ARTICLE{ssgco_egael,
+  author={Qi, Jianhan and Jia, Yuheng and Liu, Hui and Hou, Junhui},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Structural-Spectral Graph Convolution With Evidential Edge Learning for Hyperspectral Image Clustering}, 
+  year={2025},
+  volume={34},
+  number={},
+  pages={7919-7929},
+  doi={10.1109/TIP.2025.3636098}
+}
+```
